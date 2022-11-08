@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\5пр\bin\Debug\net6.0\5пр.exe
+C:\Users\ACER\source\repos\5пр\bin\Debug\net6.0\5пр.deps.json
+C:\Users\ACER\source\repos\5пр\bin\Debug\net6.0\5пр.runtimeconfig.json
+C:\Users\ACER\source\repos\5пр\bin\Debug\net6.0\5пр.dll
+C:\Users\ACER\source\repos\5пр\bin\Debug\net6.0\5пр.pdb
+C:\Users\ACER\source\repos\5пр\obj\Debug\net6.0\5пр.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\5пр\obj\Debug\net6.0\5пр.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\5пр\obj\Debug\net6.0\5пр.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\5пр\obj\Debug\net6.0\5пр.AssemblyInfo.cs
+C:\Users\ACER\source\repos\5пр\obj\Debug\net6.0\5пр.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\5пр\obj\Debug\net6.0\5пр.dll
+C:\Users\ACER\source\repos\5пр\obj\Debug\net6.0\refint\5пр.dll
+C:\Users\ACER\source\repos\5пр\obj\Debug\net6.0\5пр.pdb
+C:\Users\ACER\source\repos\5пр\obj\Debug\net6.0\5пр.genruntimeconfig.cache
+C:\Users\ACER\source\repos\5пр\obj\Debug\net6.0\ref\5пр.dll
